@@ -1,4 +1,4 @@
-# Hello, I’m Mariana Morais
+# Hello, I’m Mariana Morais 👋
  
  I am a Document Controller with a background in Art, Architecture and Urban Planning, who has been venturing out into the field of **data analytics** since February, 2023.   
  I am a researcher at heart and I am always learning new things.
