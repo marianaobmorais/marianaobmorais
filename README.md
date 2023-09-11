@@ -11,8 +11,8 @@
 - Spreadsheets: Excel, Google Sheets
 - Visualizations: Tableau, PowerPoint
 
-### Projects
-You can access my portolio by clicking [here](https://github.com/marianaobmorais/portfolio).
+### Porfolio
+You can view my projects by clicking [here](https://github.com/marianaobmorais/portfolio).
 
 ### Contact me
 - [LinkedIn](www.linkedin.com/in/mariana-obmorais)
