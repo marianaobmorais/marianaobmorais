@@ -2,7 +2,7 @@
  
  I am a Document Controller with a background in Art, Architecture and Urban Planning, who has been venturing out into the field of **data analytics** since February, 2023.   
  I am a researcher at heart and I am always learning new things.
- I hold Bachelor of Science's Degree in Architecture and Urbanism from Federal University of Pernambuco, a Fine Arts Master's Degree in Art and Design for the Public Space from Universidade do Porto and a specialization in Curating, Urban Culture and Spatial Practices from Escola Superior Artística do Porto. 
+ I hold Bachelor of Science's Degree in Architecture and Urbanism from Federal University of Pernambuco, a Fine Arts Master's Degree in Art and Design for the Public Space from University of Porto and a specialization in Curating, Urban Culture and Spatial Practices from Escola Superior Artística do Porto. 
  I live in Porto, Portugal.
  
 ### 🧰 Tools
