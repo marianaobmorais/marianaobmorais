@@ -6,7 +6,7 @@
  I live in Porto, Portugal.
  
 ### 🧰 Tools
-- Languages: R, SQL
+- Languages: R, Python
 - Databases: PostgreSQL, BigQuery
 - Spreadsheets: Excel, Google Sheets
 - Visualizations: Tableau, PowerPoint
