@@ -1,6 +1,6 @@
 # Hello, I’m Mariana Morais 👋
  
- I am a Document Controller with a background in Art, Architecture and Urban Planning. I have been venturing out into the field of **data analytics** since February, 2023. From december 2023 to january 2024, I took part in the École 42 Porto's Piscine (a bootcamp for **C language**) which sparked an interest in me for software development. 
+ I am a Document Controller with a background in Art, Architecture and Urban Planning. I have been venturing out into the field of **Data Analytics** since February, 2023. From december 2023 to january 2024, I took part in the 42 Porto's Piscine (a bootcamp for **C language**) which sparked an interest in me for software development. 
  I am a researcher at heart and I am always eager to building up my skills. 
  I live in Porto area, Portugal.
  
