@@ -1,15 +1,14 @@
 # Hello, I’m Mariana Morais 👋
  
- I am a Data Analyst and Document Controller with a background in Art, Architecture and Urban Planning. I have been venturing out into the field of **data analytics** since February, 2023.   
- I am a researcher at heart and I am always looking for the next thing to learn.
- I hold Bachelor of Science's Degree in Architecture and Urbanism from Federal University of Pernambuco, a Fine Arts Master's Degree in Art and Design for the Public Space from University of Porto and a specialization in Curating, Urban Culture and Spatial Practices from Escola Superior Artística do Porto. 
- I live in Porto, Portugal.
+ I am a Document Controller with a background in Art, Architecture and Urban Planning. I have been venturing out into the field of **data analytics** since February, 2023. From december 2023 to january 2024, I took part in the École 42 Porto's Piscine (a bootcamp for **C language**) which sparked an interest in me for software development. 
+ I am a researcher at heart and I am always eager to building up my skills. 
+ I live in Porto area, Portugal.
  
 ### 🧰 Tools
-- Languages: R, Python
+- Languages: R, C
 - Databases: PostgreSQL, BigQuery
 - Spreadsheets: Excel, Google Sheets
-- Visualizations: Tableau, PowerPoint
+- Visualizations: Tableau, PowerPoint, Illustrator
 
 ### 🗃️ Porfolio
 You can view my projects by clicking [here](https://github.com/marianaobmorais/portfolio).
