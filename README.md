@@ -17,8 +17,18 @@ You can view my projects by clicking [here](https://github.com/marianaobmorais/p
 - [LinkedIn](www.linkedin.com/in/mariana-obmorais)
 - [Tableau](https://public.tableau.com/app/profile/mariana.morais1044)
 
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaobmorais&layout=compact)
+
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianaobmorais&layout=compact&hide_border=true&bg_color=00000000&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaobmorais&layout=compact&hide_border=true&bg_color=00000000&theme=dark)
+
+<p align="center">
+    <img alt="Mariana's visitors" src="https://komarev.com/ghpvc/?username=marianaobmorais&color=ff5500&style=flat&label=visitors" />
+</p>
+
+</div>
 
 <!---
 marianaobmorais/marianaobmorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
