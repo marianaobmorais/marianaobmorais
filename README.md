@@ -17,6 +17,9 @@ You can view my projects by clicking [here](https://github.com/marianaobmorais/p
 - [LinkedIn](www.linkedin.com/in/mariana-obmorais)
 - [Tableau](https://public.tableau.com/app/profile/mariana.morais1044)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaobmorais&layout=compact)
+
 <!---
 marianaobmorais/marianaobmorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
