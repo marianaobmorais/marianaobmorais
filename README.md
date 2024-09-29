@@ -1,8 +1,6 @@
 # Hello, I’m Mariana Morais 👋
  
- I am a Computer Science student at **42 Porto** with a background in Art, Architecture and Urban Planning. Before starting at 42 School I was venturing out into the field of **Data Analytics** for one year. From december 2023 to january 2024, I took part in the 42 Porto's Piscine (a bootcamp for **C language**) which sparked an interest for **Software Development**.  
- I am a researcher at heart and I am always eager to building up my skills.  
- I live in Porto area, Portugal.
+ I am a Computer Science student at **42 Porto** with a background in Art, Architecture and Urban Planning. Before starting at 42 School I was venturing out into the field of **Data Analytics** for one year. From december 2023 to january 2024, I took part in the 42 Porto's Piscine (a bootcamp for **C language**) which sparked an interest for **Software Development** and **Data Engineering**.  
  
 ### 🧰 Tools
 - Languages: R, C
