@@ -3,7 +3,7 @@
  I am a Computer Science student at **42 Porto** with a background in Art, Architecture and Urban Planning. Before starting at 42 School I was venturing out into the field of **Data Analytics** for one year. From december 2023 to january 2024, I took part in the 42 Porto's Piscine (a bootcamp for **C language**) which sparked an interest for **Software Development** and **Data Engineering**.  
  
 ### 🧰 Tools
-- Languages: R, C
+- Languages: C, C++, R
 - Databases: PostgreSQL, BigQuery
 - Spreadsheets: Excel, Google Sheets
 - Visualizations: Tableau, PowerPoint, Illustrator
